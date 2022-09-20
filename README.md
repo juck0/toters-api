@@ -1,5 +1,5 @@
 
-# Aoters App
+# Toters App
 
 Toters is a reliable on-demand delivery tech platform that allows customers to deliver anything from anywhere right to their doorstep. From logistics to technology, design, and support we strive to offer our customers and partners the best experience both online and offline. Today, we are delivering to tens of thousands of happy customers every month from trusted partner stores
 
